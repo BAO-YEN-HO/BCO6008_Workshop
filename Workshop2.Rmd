@@ -1,0 +1,11 @@
+---
+title: "Workshop2"
+author: "BAO YEN HO"
+date: "06/08/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
